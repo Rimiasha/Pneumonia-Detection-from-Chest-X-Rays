@@ -1,0 +1,19 @@
+# Dataset (too large / shouldn't be committed)
+chest_xray/
+
+# Trained model weights
+*.pth
+*.pt
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
