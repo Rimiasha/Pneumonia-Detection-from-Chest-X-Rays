@@ -10,15 +10,15 @@ We use the Chest X-Ray Dataset for pneumonia detection.
 
 ## 🛠️ Technologies Used
 
-✅ Python
+**✅ Python**
 
-✅ PyTorch (Deep Learning Framework)
+**✅ PyTorch (Deep Learning Framework)**
 
-✅ Torchvision (Image Processing & Augmentation)
+**✅ Torchvision (Image Processing & Augmentation)**
 
-✅ Matplotlib (Data Visualization)
+**✅ Matplotlib (Data Visualization)**
 
-✅ PIL (Pillow) (Image Manipulation)
+**✅ PIL (Pillow) (Image Manipulation)**
 
 ## 🚀Features
 
